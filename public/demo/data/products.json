@@ -1,0 +1,88 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"code": "f230fh0g3",
+			"name": "Guarda-Roupa Casal 3 Portas 1 Porta Espelho 6 Gavetas Grajaú Yescasa",
+			"description": "Product Description",
+			"image": "guarda-roupa-casal-quarto.jpg",
+			"price": 1900,
+			"storePrice": 2405.16,
+			"category": "Móveis",
+			"quantity": 1,
+			"inventoryStatus": "DISPONÍVEL",
+			"link": "https://www.magazineluiza.com.br/guarda-roupa-casal-3-portas-1-porta-espelho-6-gavetas-grajau-yescasa/p/kj65d9718f/mo/guro/",
+			"new": 4
+		},
+		{
+			"id": "1001",
+			"code": "nvklal433",
+			"name": "Mesa Escrivaninha Computador Simples De L C/prateleira",
+			"description": "Product Description",
+			"image": "mesa-L-quarto.jpg",
+			"price": 300,
+			"storePrice": 499,
+			"category": "Móveis",
+			"quantity": 1,
+			"inventoryStatus": "DISPONÍVEL",
+			"link": "https://produto.mercadolivre.com.br/MLB-2602773610-mesa-escrivaninha-computador-simples-de-l-cprateleira-casa-_JM?quantity=1&variation_id=174370841416",
+			"new": 4
+		},
+		{
+			"id": "1002",
+			"code": "abc123xyz",
+			"name": "Rack Bancada Para Tv 70 Polegadas Columbus Marrom Caemmun",
+			"description": "Product Description",
+			"image": "rack-bancada-sala.jpg",
+			"price": 400,
+			"storePrice": 599,
+			"category": "Móveis",
+			"quantity": 1,
+			"inventoryStatus": "DISPONÍVEL",
+			"link": "https://m.magazineluiza.com.br/rack-bancada-para-tv-70-polegadas-columbus-marrom-caemmun/p/kjbfk0fjeb/mo/racm/?partner_id=64852&utm_source=pdp_mobile&utm_medium=share",
+			"new": 3
+		},
+		{
+			"id": "1003",
+			"code": "qwe456rty",
+			"name": "Mesa Computador Branca + Prateleira",
+			"description": "Product Description",
+			"image": "mesa-computador-branca.jpg",
+			"price": 150,
+			"storePrice": 220,
+			"category": "Móveis",
+			"quantity": 1,
+			"inventoryStatus": "DISPONÍVEL",
+			"link": "link_para_o_produto",
+			"new": 3
+		},
+		{
+			"id": "1004",
+			"code": "zxc789vbn",
+			"name": "Mesa Cabeceira",
+			"description": "Product Description",
+			"image": "mesa-cabeceira.jpg",
+			"price": 120,
+			"storePrice": 180,
+			"category": "Móveis",
+			"quantity": 1,
+			"inventoryStatus": "DISPONÍVEL",
+			"link": "link_para_o_produto",
+			"new": 3
+		},
+		{
+			"id": "1005",
+			"code": "poi098qwe",
+			"name": "Vídeo Game - PS4",
+			"description": "Product Description",
+			"image": "ps4.jpg",
+			"price": 800,
+			"storePrice": 1000,
+			"category": "Eletrônicos",
+			"quantity": 1,
+			"inventoryStatus": "DISPONÍVEL",
+			"link": "link_para_o_produto",
+			"new": 3
+		}
+	]
+}
