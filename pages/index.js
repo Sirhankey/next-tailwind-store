@@ -39,7 +39,7 @@ export default function Home() {
   const dt = useRef(null);
 
   useEffect(() => {
-    getProducts().then(data => setProducts(data));
+    getProducts().then(data => setProducts(data)).catch(error => console.error(error));
   }, []);
 
   const formatCurrency = (value) => {
