@@ -15,7 +15,7 @@ function saveProducts(products) {
         body: JSON.stringify({ data: products }),
     })
         .then(res => res.json())
-        .then(d => d.data);;
+        .then(d => d.data); ;
     // const filePath = 'public/data/products.json';
     // const fs = require('fs');
 
