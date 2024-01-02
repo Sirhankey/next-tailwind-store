@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { classNames } from 'primereact/utils';
 import { DataTable } from 'primereact/datatable';
 import { Column } from 'primereact/column';
-import { getProducts, saveProducts } from './ProductService';
+import { getProducts } from './ProductService';
 import { Toast } from 'primereact/toast';
 import { Button } from 'primereact/button';
 import { Rating } from 'primereact/rating';
@@ -87,7 +87,7 @@ export default function Home() {
       // Atualizar o JSON localmente
       try {
         console.log(_products)
-        await saveProducts(_products);
+        // await saveProducts(_products);
         console.log('JSON atualizado localmente.');
       } catch (error) {
         console.error('Erro ao atualizar o JSON localmente:', error);
